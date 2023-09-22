@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi, I’m Muhammad Muzammil Safdar. I am a Frontend Developer with React and Next JS.</h2>
 
 ###
@@ -53,3 +51,4 @@ I'm passionate about front-end development and specialize in React and Next.js. 
 
  
 ### Projects:
+[Blog Website](https://www.codebloglab.website/)
