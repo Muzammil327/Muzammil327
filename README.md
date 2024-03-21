@@ -51,4 +51,4 @@ I'm passionate about front-end development and specialize in React and Next.js. 
 
  
 ### Projects:
-[Blog Website](https://muzammil-product-1.vercel.app/)
+[MERN stack crud application](https://mern-stack-crud-application-gamma.vercel.app/)
