@@ -51,4 +51,6 @@ I'm passionate about front-end development and specialize in React and Next.js. 
 
  
 ### Projects:
-[MERN stack crud application](https://mern-stack-crud-application-gamma.vercel.app/)
+[MERN stack crud application](https://mern-stack-crud-application-gamma.vercel.app/crud)
+[MERN stack Authentication application](https://mern-stack-crud-application-gamma.vercel.app/authentication/register)
+
