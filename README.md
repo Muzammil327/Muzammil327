@@ -1,38 +1,41 @@
-<h2 align="left">Hi, I’m Muhammad Muzammil Safdar. I am a Frontend Developer with React and Next JS.</h2>
+<h2 align="left">Hi, I’m Muhammad Muzammil Safdar. I am a Full Stack Developer with React and Next JS.</h2>
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a Frontend Developer with a passion for developing innovative and user-friendly web applications. I love creating responsive and interactive web applications. With 1+ years of experience in the industry, I have honed my skills in JavaScript, React and Next.js.
+<p align="left">Welcome to my GitHub profile! I am a Frontend and Backend Developer with a passion for developing innovative and user-friendly web applications. I love creating responsive and interactive web applications. With 2+ years of experience in Frontend and 1+ year of experience in Backend, I have honed my skills in JavaScript, React, Next.js, Node.js and MongoDB.
   
 In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.</p>
 
-I'm passionate about front-end development and specialize in React and Next.js. I love creating responsive and interactive web applications.
- 
 ### Tech Stack:
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=scss" height="30" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="node js logo"  />
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="30" alt="express js logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="Mongodb logo"  />
+    <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
- 
+ <img width="12" />
 </div>
 
 ###  Feel free to reach out to me
@@ -50,8 +53,6 @@ I'm passionate about front-end development and specialize in React and Next.js. 
 </div>
 
  
-### Projects:
-[MERN stack crud application](https://mern-stack-crud-application-gamma.vercel.app/crud) <hr />
-[MERN stack Authentication application](https://mern-stack-crud-application-gamma.vercel.app/authentication/register) <hr />
-[MDX Blog Website](https://blog-website-pink-chi.vercel.app/) <hr />
+### Portfolio Website:
+[Click Here](https://mmuzammil-portfolio.vercel.app/) 
 
