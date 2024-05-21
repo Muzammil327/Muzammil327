@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a Frontend and Backend Developer with a passion for developing innovative and user-friendly web applications. I love creating responsive and interactive web applications. With 2+ years of experience in Frontend and 1+ year of experience in Backend, I have honed my skills in JavaScript, React, Next.js, Node.js and MongoDB.
+<p align="left">Welcome to my GitHub profile! I am a Full Stack Developer with a passion for developing innovative and user-friendly web applications. I love creating responsive and interactive web applications. With 2+ years of experience in Frontend and 1+ year of experience in Backend, I have honed my skills in JavaScript, React, Next.js, Node.js and MongoDB.
   
 In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.</p>
 
