@@ -41,10 +41,10 @@ In my free time, I enjoy exploring new technologies. I am always looking for new
 ###  Feel free to reach out to me
 
 <div align="left">
-  <a href="mmuzammiloff327@gmail.com" target="_blank">
+  <a href="mmuzammil327off@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/muzammil-safdar/" target="_blank">
+  <a href="https://www.linkedin.com/in/muzammil327/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/+923144878266" target="_blank">
