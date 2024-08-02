@@ -2,9 +2,12 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! I am a Full Stack Developer with a passion for developing innovative and user-friendly web applications. I love creating responsive and interactive web applications. With 2+ years of experience in Frontend and 1+ year of experience in Backend, I have honed my skills in JavaScript, React, Next.js, Node.js and MongoDB.
+<p align="left">Welcome to my GitHub profile! I am a Full Stack Developer with a passion for developing innovative and user-friendly web applications. I love creating responsive and interactive web applications. With 2+ years of experience in Frontend and Backend, I have honed my skills in JavaScript, React, Next.js, Node.js, MongoDB and SQL.
   
 In my free time, I enjoy exploring new technologies. I am always looking for new challenges and opportunities to grow as a developer, and I am excited to see what the future holds.</p>
+
+### Portfolio Website:
+[Click Here](https://mmuzammil-portfolio.vercel.app/) 
 
 ### Tech Stack:
 
@@ -51,8 +54,3 @@ In my free time, I enjoy exploring new technologies. I am always looking for new
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
- 
-### Portfolio Website:
-[Click Here](https://mmuzammil-portfolio.vercel.app/) 
-
