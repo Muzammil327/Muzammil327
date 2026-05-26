@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer | Building High-Performance, Scalable Web Apps with React, Node.js, AWS & TypeScript</h3>
 
 <p align="left">
-I’m an Associate Software Engineer at Axtra Studio with 1.5 years of hands-on experience designing, building, and deploying end-to-end web applications that delight users and scale effortlessly under real-world demands. Driven by a passion for both elegant user interfaces and rock-solid server architectures, I’ve honed a versatile skill set across the entire JavaScript ecosystem and cloud-native infrastructure.
+I’m an Associate Software Engineer at Axtra Studio with 2 years of hands-on experience designing, building, and deploying end-to-end web applications that delight users and scale effortlessly under real-world demands. Driven by a passion for both elegant user interfaces and rock-solid server architectures, I’ve honed a versatile skill set across the entire JavaScript ecosystem and cloud-native infrastructure.
 </p>
 
 ---
