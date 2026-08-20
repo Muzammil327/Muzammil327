@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muzammil Safdar</h1>
-<h3 align="center">Full Stack Developer (MERN Stack) | Lahore, Pakistan</h3>
+<h3 align="center">Full Stack MERN Developer | Lahore, Pakistan</h3>
 
 <p align="center">
   Building scalable, high-performance web applications with clean, responsive interfaces.
