@@ -1,91 +1,124 @@
-<h2 align="left">Hi, I’m Muhammad Muzammil Safdar.</h2>
-<h3 align="left">Software Engineer | Building High-Performance, Scalable Web Apps with React, Node.js, AWS & TypeScript</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Muzammil Safdar</h1>
+<h3 align="center">Full Stack Developer (MERN Stack) | Lahore, Pakistan</h3>
 
-<p align="left">
-I’m an Associate Software Engineer at Axtra Studio with 2 years of hands-on experience designing, building, and deploying end-to-end web applications that delight users and scale effortlessly under real-world demands. Driven by a passion for both elegant user interfaces and rock-solid server architectures, I’ve honed a versatile skill set across the entire JavaScript ecosystem and cloud-native infrastructure.
+<p align="center">
+  Building scalable, high-performance web applications with clean, responsive interfaces.
+</p>
+
+<p align="center">
+  <a href="mailto:mmuzammilsafdar3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### **Frontend Engineering**
-- Architect and implement responsive, accessible UIs in TypeScript using **React, Next.js, Tailwind CSS, and ShadCN UI**.
-- Optimize bundle size, leverage image/code splitting, and employ dynamic imports to achieve **sub-200 ms interactive times**.
-- Integrate state management with **React Query** and **Zustand** for predictable client-side data flows.
-- Collaborate with UX designers to translate Figma prototypes into pixel-perfect, mobile-first layouts, improving **user satisfaction scores by 20%**.
+### 🚀 About Me
+
+- 🎯 Full Stack Software Engineer with **2 years** of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React/Next.js, Node.js) and **TypeScript**
+- 🏢 Currently working as **Associate Software Engineer** at **Axtra Studios**
+- 🌱 Experienced in building secure authentication, role-based access control, RESTful APIs, and real-time systems
+- 💳 Skilled in integrating payments (Stripe), cloud hosting (AWS), and media management (Cloudinary)
+- 🤝 Strong collaborator with cross-functional teams, focused on performance optimization and clean UI/UX
 
 ---
 
-### **Backend Engineering**
-- Build **RESTful and GraphQL APIs** with Node.js, Express, and Apollo Server in TypeScript, enforcing strict typing and schema validation.
-- Design relational schemas in **PostgreSQL** and dynamic document models in **MongoDB** to support multi-tenant, high-throughput use cases.
-- Implement **JWT-based authentication**, role-based access control, and end-to-end encryption for sensitive data.
+### 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+</p>
+
+**Database**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+**Cloud, Hosting & Tools**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+**Payments & Media**
+<p>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+</p>
 
 ---
 
-### **Cloud & DevOps**
-- Containerize services with **Docker**; author multi-stage Dockerfiles for lean production images.
-- Configure **CI/CD pipelines in GitHub Actions** to automate linting, testing, security scans, and zero-downtime deployments.
-- Deploy frontend artifacts to **Vercel** for global edge delivery; host backends on **AWS Lambda** and **ECS** behind Application Load Balancers.
-- Monitor performance and errors with **Prometheus, Grafana, and Sentry**, proactively resolving issues before they impact users.
+### 💼 Featured Projects
+
+#### 🔹 [Client Onboarding Platform](#)
+`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node` `Stripe` `Socket.IO`
+- Secure auth with role-based access control (Developer, Designer, PM)
+- Team onboarding via email invites, task/milestone tracking, real-time dashboards
+- Stripe-powered billing and webhook-based real-time notifications
+
+#### 🔹 [Truck Insurance Lead](#)
+`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node` `Stripe`
+- Google OAuth login and Stripe subscription/billing management
+- Advanced multi-parameter search using MongoDB aggregation
+- Paginated search results with Excel export
+
+#### 🔹 [Urban DTF](#)
+`Next.js` `Tailwind` `TypeScript` `Node.js` `Stripe` `Socket.IO` `PostgreSQL` `Prisma`
+- Role-based system for Admin, Staff, and Customer panels
+- Design file uploads via Google Drive API, real-time order tracking
+- Integrated chatbot and support ticket system
+
+#### 🔹 [KL Fashion – CRM System](#)
+`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node` `Stripe` `Socket.IO` `Railway`
+- CRM for wholesale sales and inventory tracking
+- Automated financial reports (income statements, sales summaries)
+- Real-time dashboards for sales, stock, and revenue
+
+#### 🔹 [Ecommerce Website](#) *(Personal Project)*
+`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node`
+- Cart, wishlist, ratings/reviews, and full CRUD for inventory & orders
+- Pagination, sorting, and filtering for a streamlined browsing experience
 
 ---
 
-### **Education & Growth**
-Currently pursuing a **BSc in Computer Science** at Virtual University of Pakistan, I continuously enrich my practical skills with strong theoretical foundations—exploring algorithms and data structures. I’m committed to lifelong learning: diving into emerging technologies like **Web Assembly, Server Components in Next.js, and service-mesh architectures** to stay at the forefront of web engineering.
+### 💻 Experience
+
+| Company | Role | Duration |
+|---|---|---|
+| **Axtra Studios** | Associate Software Engineer (Onsite) | Oct 2024 – Present |
+| **Devmate Solution** | Full Stack Developer (Remote) | Aug 2025 – Jan 2026 |
 
 ---
 
-### **Tech Stack**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scss" height="30" alt="SCSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="Nginx" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vps" height="30" alt="VPS" />
-</div>
-
+### 🎓 Education
+**Bachelor of Computer Science** — Virtual University (2020 – 2024)
 
 ---
 
-### **Feel Free to Reach Out**
+### 📫 Let's Connect
 
-<div align="left">
-  <a href="mailto:muzammilsafdarofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/muzammilsafdar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/+923144878266" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp" />
-  </a>
-</div>
+<p align="left">
+📧 mmuzammilsafdar3@gmail.com &nbsp;|&nbsp; 📞 +92 314 4878266 &nbsp;|&nbsp; 📍 Lahore, Pakistan
+</p>
