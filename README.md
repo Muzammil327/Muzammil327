@@ -1,124 +1,163 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muzammil Safdar</h1>
-<h3 align="center">Full Stack MERN Developer | Lahore, Pakistan</h3>
+<h3 align="center">Full Stack MERN Developer · Lahore, Pakistan</h3>
 
 <p align="center">
-  Building scalable, high-performance web applications with clean, responsive interfaces.
+  Building scalable, high-performance web apps with clean, responsive interfaces.
 </p>
 
 <p align="center">
   <a href="mailto:mmuzammilsafdar3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 🎯 Full Stack Software Engineer with **2 years** of hands-on experience specializing in the **MERN stack** (MongoDB, Express, React/Next.js, Node.js) and **TypeScript**
-- 🏢 Currently working as **Associate Software Engineer** at **Axtra Studios**
-- 🌱 Experienced in building secure authentication, role-based access control, RESTful APIs, and real-time systems
-- 💳 Skilled in integrating payments (Stripe), cloud hosting (AWS), and media management (Cloudinary)
-- 🤝 Strong collaborator with cross-functional teams, focused on performance optimization and clean UI/UX
-
----
-
-### 🛠️ Tech Stack
+## Skills
 
 **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-**Database**
+**Other**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-</p>
-
-**Cloud, Hosting & Tools**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
-
-**Payments & Media**
-<p>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 💼 Featured Projects
+## Open source
 
-#### 🔹 [Client Onboarding Platform](#)
-`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node` `Stripe` `Socket.IO`
+<!-- Replace the placeholders below with your real PRs. Find them at:
+     https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic -->
+
+**Upstream log:** `org/repo` #000 merged, `org/repo` #000 in review. **X of Y** public pull requests merged across **Z** repositories.
+
+Mostly fixes and improvements in tools I actually use in the MERN ecosystem. Every PR below links to its review.
+
+[All public PRs](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic) · [Merged](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic+is%3Amerged) · [Open](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic+is%3Aopen) · [Closed](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic+is%3Aclosed+is%3Aunmerged)
+
+### Merged into the community
+
+| Project | Contribution |
+|---|---|
+| [org/repo](https://github.com/org/repo) | Short description of the fix · [#000](https://github.com/org/repo/pull/000) |
+| [org/repo](https://github.com/org/repo) | Short description of the fix · [#000](https://github.com/org/repo/pull/000) |
+
+### Community contributions
+
+**0 PRs · 0 merged · 0 open · 0 closed**
+
+Expand a repository to see every contribution. Open PRs are proposals awaiting review or merge.
+
+<details>
+<summary><b>org/repo</b> &nbsp;·&nbsp; 1 merged · 1 open</summary>
+
+| Status | PR | Contribution |
+|---|---|---|
+| 🟣 Merged | [#000](https://github.com/org/repo/pull/000) | Short description |
+| 🟢 Open | [#000](https://github.com/org/repo/pull/000) | Short description |
+
+</details>
+
+<details>
+<summary><b>org/another-repo</b> &nbsp;·&nbsp; 1 open</summary>
+
+| Status | PR | Contribution |
+|---|---|---|
+| 🟢 Open | [#000](https://github.com/org/another-repo/pull/000) | Short description |
+
+</details>
+
+---
+
+## Built in my own work
+
+The shipping history of my own and client projects, listed separately from community contributions.
+
+<details>
+<summary><b>Client Onboarding Platform</b> &nbsp;·&nbsp; Next.js · TypeScript · MongoDB · Stripe · Socket.IO</summary>
+
 - Secure auth with role-based access control (Developer, Designer, PM)
 - Team onboarding via email invites, task/milestone tracking, real-time dashboards
 - Stripe-powered billing and webhook-based real-time notifications
 
-#### 🔹 [Truck Insurance Lead](#)
-`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node` `Stripe`
+</details>
+
+<details>
+<summary><b>Truck Insurance Lead</b> &nbsp;·&nbsp; Next.js · TypeScript · MongoDB · Stripe</summary>
+
 - Google OAuth login and Stripe subscription/billing management
 - Advanced multi-parameter search using MongoDB aggregation
 - Paginated search results with Excel export
 
-#### 🔹 [Urban DTF](#)
-`Next.js` `Tailwind` `TypeScript` `Node.js` `Stripe` `Socket.IO` `PostgreSQL` `Prisma`
-- Role-based system for Admin, Staff, and Customer panels
+</details>
+
+<details>
+<summary><b>Urban DTF</b> &nbsp;·&nbsp; Next.js · TypeScript · PostgreSQL · Prisma · Stripe · Socket.IO</summary>
+
+- Role-based Admin, Staff and Customer panels
 - Design file uploads via Google Drive API, real-time order tracking
 - Integrated chatbot and support ticket system
 
-#### 🔹 [KL Fashion – CRM System](#)
-`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node` `Stripe` `Socket.IO` `Railway`
+</details>
+
+<details>
+<summary><b>KL Fashion – CRM System</b> &nbsp;·&nbsp; Next.js · TypeScript · MongoDB · Socket.IO · Railway</summary>
+
 - CRM for wholesale sales and inventory tracking
 - Automated financial reports (income statements, sales summaries)
-- Real-time dashboards for sales, stock, and revenue
+- Real-time dashboards for sales, stock and revenue
 
-#### 🔹 [Ecommerce Website](#) *(Personal Project)*
-`Next.js` `MongoDB` `Tailwind` `TypeScript` `Node`
-- Cart, wishlist, ratings/reviews, and full CRUD for inventory & orders
-- Pagination, sorting, and filtering for a streamlined browsing experience
+</details>
+
+<details>
+<summary><b>Ecommerce Website</b> &nbsp;·&nbsp; personal project · Next.js · TypeScript · MongoDB</summary>
+
+- Cart, wishlist, ratings/reviews, and full CRUD for inventory and orders
+- Pagination, sorting and filtering for a streamlined browsing experience
+
+</details>
 
 ---
 
-### 💻 Experience
+## Experience
 
 | Company | Role | Duration |
 |---|---|---|
 | **Axtra Studios** | Associate Software Engineer (Onsite) | Oct 2024 – Present |
 | **Devmate Solution** | Full Stack Developer (Remote) | Aug 2025 – Jan 2026 |
 
----
-
-### 🎓 Education
-**Bachelor of Computer Science** — Virtual University (2020 – 2024)
+**Education:** Bachelor of Computer Science, Virtual University (2020 – 2024)
 
 ---
 
-### 📫 Let's Connect
-
-<p align="left">
-📧 mmuzammilsafdar3@gmail.com &nbsp;|&nbsp; 📞 +92 314 4878266 &nbsp;|&nbsp; 📍 Lahore, Pakistan
-</p>
+<sub>Status snapshot: September 28, 2026. Counts cover public PRs only; the links above show current GitHub activity. Closed means closed without merge.</sub>
