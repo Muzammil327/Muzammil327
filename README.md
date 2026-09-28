@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:mmuzammilsafdar3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muzammilsafdar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mmuzammil-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -56,44 +56,99 @@
 
 ## Open source
 
-<!-- Replace the placeholders below with your real PRs. Find them at:
-     https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic -->
+**Upstream log:** clintonbampoe/echo [#191](https://github.com/clintonbampoe/echo/pull/191) merged, documenso/documenso [#3205](https://github.com/documenso/documenso/pull/3205) in review, contextpassport/spec [#83](https://github.com/contextpassport/spec/pull/83) merged. **26 of 34** public pull requests merged across **5** repositories.
 
-**Upstream log:** `org/repo` #000 merged, `org/repo` #000 in review. **X of Y** public pull requests merged across **Z** repositories.
+Mostly API, infrastructure and tooling fixes. Every PR below links to its review.
 
-Mostly fixes and improvements in tools I actually use in the MERN ecosystem. Every PR below links to its review.
-
-[All public PRs](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic) · [Merged](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic+is%3Amerged) · [Open](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic+is%3Aopen) · [Closed](https://github.com/pulls?q=is%3Apr+author%3AYOUR-USERNAME+is%3Apublic+is%3Aclosed+is%3Aunmerged)
+[All public PRs](https://github.com/pulls?q=is%3Apr+author%3AMuzammil327+is%3Apublic) · [Merged](https://github.com/pulls?q=is%3Apr+author%3AMuzammil327+is%3Apublic+is%3Amerged) · [Open](https://github.com/pulls?q=is%3Apr+author%3AMuzammil327+is%3Apublic+is%3Aopen) · [Closed](https://github.com/pulls?q=is%3Apr+author%3AMuzammil327+is%3Apublic+is%3Aclosed+is%3Aunmerged)
 
 ### Merged into the community
 
 | Project | Contribution |
 |---|---|
-| [org/repo](https://github.com/org/repo) | Short description of the fix · [#000](https://github.com/org/repo/pull/000) |
-| [org/repo](https://github.com/org/repo) | Short description of the fix · [#000](https://github.com/org/repo/pull/000) |
+| [clintonbampoe/echo](https://github.com/clintonbampoe/echo) | Support graceful JWT signing key rotation · [#191](https://github.com/clintonbampoe/echo/pull/191) |
+| [clintonbampoe/echo](https://github.com/clintonbampoe/echo) | Add rate limits and body size limits to nginx · [#188](https://github.com/clintonbampoe/echo/pull/188) |
+| [contextpassport/spec](https://github.com/contextpassport/spec) | Add developer event passports and generator · [#41](https://github.com/contextpassport/spec/pull/41) |
+| [contextpassport/spec](https://github.com/contextpassport/spec) | TypeScript version of the quickstart, checked by CI · [#37](https://github.com/contextpassport/spec/pull/37) |
+| [noahweidig/noahweidig.github.io](https://github.com/noahweidig/noahweidig.github.io) | Centralize responsive Image widths into named scales · [#32](https://github.com/noahweidig/noahweidig.github.io/pull/32) |
 
 ### Community contributions
 
-**0 PRs · 0 merged · 0 open · 0 closed**
+**34 PRs · 26 merged · 2 open · 6 closed**
 
 Expand a repository to see every contribution. Open PRs are proposals awaiting review or merge.
 
 <details>
-<summary><b>org/repo</b> &nbsp;·&nbsp; 1 merged · 1 open</summary>
+<summary><b>clintonbampoe/echo</b> &nbsp;·&nbsp; 14 merged · 1 closed</summary>
 
 | Status | PR | Contribution |
 |---|---|---|
-| 🟣 Merged | [#000](https://github.com/org/repo/pull/000) | Short description |
-| 🟢 Open | [#000](https://github.com/org/repo/pull/000) | Short description |
+| 🟣 Merged | [#191](https://github.com/clintonbampoe/echo/pull/191) | Support graceful JWT signing key rotation |
+| 🟣 Merged | [#190](https://github.com/clintonbampoe/echo/pull/190) | Cap container logs with json-file rotation |
+| 🟣 Merged | [#189](https://github.com/clintonbampoe/echo/pull/189) | Validate applied migrations in database healthcheck |
+| 🟣 Merged | [#188](https://github.com/clintonbampoe/echo/pull/188) | Add rate limits and body size limits to nginx |
+| 🟣 Merged | [#187](https://github.com/clintonbampoe/echo/pull/187) | Install curl in API runtime stage |
+| 🟣 Merged | [#169](https://github.com/clintonbampoe/echo/pull/169) | Enforce FRONTEND_BASE_URL at startup |
+| 🟣 Merged | [#163](https://github.com/clintonbampoe/echo/pull/163) | Inject TimeProvider for testable clock usage |
+| 🟣 Merged | [#162](https://github.com/clintonbampoe/echo/pull/162) | Densify tithe monthly summary via dictionary lookup |
+| 🟣 Merged | [#158](https://github.com/clintonbampoe/echo/pull/158) | Remove redundant AllowAnonymous from RegisterMember |
+| 🟣 Merged | [#157](https://github.com/clintonbampoe/echo/pull/157) | Add DataAnnotations validation on Create/Update and Auth DTOs |
+| 🟣 Merged | [#131](https://github.com/clintonbampoe/echo/pull/131) | Make computed Name columns non-writable |
+| 🟣 Merged | [#130](https://github.com/clintonbampoe/echo/pull/130) | Configure CORS for cross-origin SPA requests |
+| 🟣 Merged | [#129](https://github.com/clintonbampoe/echo/pull/129) | Replace inline DeletedAt checks with ApplySoftDeleteFilter |
+| ⚪ Closed | [#128](https://github.com/clintonbampoe/echo/pull/128) | Rely on global soft-delete query filters |
+| 🟣 Merged | [#127](https://github.com/clintonbampoe/echo/pull/127) | Remove redundant JWT inbound claim map clear |
 
 </details>
 
 <details>
-<summary><b>org/another-repo</b> &nbsp;·&nbsp; 1 open</summary>
+<summary><b>contextpassport/spec</b> &nbsp;·&nbsp; 10 merged</summary>
 
 | Status | PR | Contribution |
 |---|---|---|
-| 🟢 Open | [#000](https://github.com/org/another-repo/pull/000) | Short description |
+| 🟣 Merged | [#83](https://github.com/contextpassport/spec/pull/83) | Regenerate package-lock.json so npm ci works |
+| 🟣 Merged | [#74](https://github.com/contextpassport/spec/pull/74) | Publish array schema so chains get editor support |
+| 🟣 Merged | [#70](https://github.com/contextpassport/spec/pull/70) | Require ECMA-262 full-string match for schema patterns |
+| 🟣 Merged | [#69](https://github.com/contextpassport/spec/pull/69) | Scan all Context Passport repos in Steward contribution check |
+| 🟣 Merged | [#49](https://github.com/contextpassport/spec/pull/49) | Pin LF line endings for .js and .yml files |
+| 🟣 Merged | [#42](https://github.com/contextpassport/spec/pull/42) | Align §2.6 custom event-type namespacing with §3.3 |
+| 🟣 Merged | [#41](https://github.com/contextpassport/spec/pull/41) | Add developer event passports and generator |
+| 🟣 Merged | [#40](https://github.com/contextpassport/spec/pull/40) | Pin LF line endings for parsed tooling files |
+| 🟣 Merged | [#37](https://github.com/contextpassport/spec/pull/37) | TypeScript version of the quickstart, checked by CI |
+| 🟣 Merged | [#36](https://github.com/contextpassport/spec/pull/36) | Validate the shape of event types |
+
+</details>
+
+<details>
+<summary><b>noahweidig/noahweidig.github.io</b> &nbsp;·&nbsp; 2 merged · 2 closed</summary>
+
+| Status | PR | Contribution |
+|---|---|---|
+| ⚪ Closed | [#82](https://github.com/noahweidig/noahweidig.github.io/pull/82) | Align webmanifest theme/background colors with site themes |
+| ⚪ Closed | [#81](https://github.com/noahweidig/noahweidig.github.io/pull/81) | Remove unused mastodon.svg brand asset |
+| 🟣 Merged | [#33](https://github.com/noahweidig/noahweidig.github.io/pull/33) | Require image-alt when image is set in blog and awards schemas |
+| 🟣 Merged | [#32](https://github.com/noahweidig/noahweidig.github.io/pull/32) | Centralize responsive Image widths into named scales |
+
+</details>
+
+<details>
+<summary><b>documenso/documenso</b> &nbsp;·&nbsp; 2 open · 1 closed</summary>
+
+| Status | PR | Contribution |
+|---|---|---|
+| ⚪ Closed | [#3252](https://github.com/documenso/documenso/pull/3252) | Fix multiselect type button |
+| 🟢 Open | [#3205](https://github.com/documenso/documenso/pull/3205) | Prevent stale async search results in multiselect |
+| 🟢 Open | [#3147](https://github.com/documenso/documenso/pull/3147) | Enforce envelope visibility on file access |
+
+</details>
+
+<details>
+<summary><b>strapi/strapi</b> &nbsp;·&nbsp; 2 closed</summary>
+
+| Status | PR | Contribution |
+|---|---|---|
+| ⚪ Closed | [#25548](https://github.com/strapi/strapi/pull/25548) | Adjust scroll behavior for Content-Type Builder guided tour |
+| ⚪ Closed | [#25527](https://github.com/strapi/strapi/pull/25527) | Show dash for empty table view text fields |
 
 </details>
 
